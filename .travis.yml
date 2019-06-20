@@ -1,2 +1,6 @@
 language: python
+sudo: false
+git:
+  depth: 1
+python: "3.6"
 
