@@ -35,5 +35,5 @@ git clone https://github.com/Fedeya/amino-phishing.git
 
 ```
 cd amino-phishing
-python3 aminophishing
+python3 aminophishing.py
 ```
