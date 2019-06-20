@@ -1,6 +1,6 @@
 ## Phishing de Amino
 
-#Termux - Pasos
+#Termux - Instalacion
 
 ```
 apt install php openssh python
