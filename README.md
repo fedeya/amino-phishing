@@ -1,6 +1,8 @@
 # Phishing de Amino
 
 [![Build Status](https://travis-ci.org/Fedeya/amino-phishing.svg?branch=master)](https://travis-ci.org/Fedeya/amino-phishing)
+[![Python 3.6](https://img.shields.io/badge/python-3.6%20%7C%203.7-green.svg)](https://www.python.org/downloads/release/python-360/)
+
 
 
 ### Phishing para la red social Amino que suplanta una comunidad
