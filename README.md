@@ -1,19 +1,34 @@
 # Phishing de Amino
-> Phishing para la red social Amino que suplanta una comunidad
+### Phishing para la red social Amino que suplanta una comunidad
 
-## Termux - Requisitos
+  ![alt text](https://i.imgur.com/EG1q7yf.png) 
 
-> Aqui se vera la instalacion de los programas necesarios para el uso sin problemas  en **Android** **Termux**
+
+## Termux - Instalacion
+
+ Aqui se vera la instalacion **Android** **Termux**
+
 
 ```
 apt install php git openssh python
 pip3 install colorama
+git clone https://github.com/Fedeya/amino-phishing.git
+```
+
+## Arch - Manjaro - Instalacion
+
+ Aqui se vera la instalacion  en **Arch Linux y Distribuciones Basadas en Arch Linux**
+
+
+```
+sudo pacman -S php git openssh python python-pip
+pip3 install colorama --user
+git clone https://github.com/Fedeya/amino-phishing.git
 ```
 
 ## Uso:
 
 ```
-git clone https://github.com/Fedeya/amino-phishing.git
 cd amino-phishing
 python3 amino-phishing
 ```
