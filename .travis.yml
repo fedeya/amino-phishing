@@ -1,6 +1,6 @@
 language: python
-sudo: false
-git:
-  depth: 1
 python: "3.6"
+install: pip install colorama --user
+script:
+  pytest
 
