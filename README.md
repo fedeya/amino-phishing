@@ -1,7 +1,12 @@
 # Phishing de Amino
+
+[![Build Status](https://travis-ci.org/Fedeya/amino-phishing.svg?branch=master)](https://travis-ci.org/Fedeya/amino-phishing)
+
+
 ### Phishing para la red social Amino que suplanta una comunidad
 
   ![alt text](https://i.imgur.com/EG1q7yf.png) 
+
 
 
 ## Termux - Instalacion
@@ -30,5 +35,5 @@ git clone https://github.com/Fedeya/amino-phishing.git
 
 ```
 cd amino-phishing
-python3 amino-phishing
+python3 aminophishing
 ```
