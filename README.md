@@ -37,3 +37,19 @@ git clone https://github.com/Fedeya/amino-phishing.git
 cd amino-phishing
 python3 aminophishing.py
 ```
+
+## Agregar Imagenes
+
+
+Para añadir imagenes al resultado final de la comunidad falsa solo deben ser metidas en la carpeta de **images** de la raiz del repositorio y luego ser llamadas con su extension desde el script python 
+
+> Importante el nombre de la imagen no debe contener espacios
+
+> En el caso de no querer imagenes dejar el espacio vacio
+
+### Ejemplo
+
+```
+cp ~/Imágenes/portada.jpg ~/amino-phishing/images/
+```
+![alt text](https://i.imgur.com/9HUdBFA.png)
