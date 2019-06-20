@@ -6,7 +6,7 @@
 
 ## Termux - Instalacion
 
- Aqui se vera la instalacion **Android** **Termux**
+ Aqui se vera la instalacion en **Android** **Termux**
 
 
 ```
