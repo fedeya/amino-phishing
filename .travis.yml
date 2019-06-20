@@ -2,5 +2,5 @@ language: python
 python: "3.6"
 install: pip install colorama
 script:
-  pytest
+  python3 -c "import aminophishing"
 
